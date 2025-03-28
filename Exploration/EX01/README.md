@@ -6,9 +6,11 @@
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - diabetes.ipynb: 네
-     ![image](https://github.com/user-attachments/assets/b5e2a6d5-4dd6-423e-bf3c-1a84a9900403)
+
+![image](https://github.com/user-attachments/assets/b5e2a6d5-4dd6-423e-bf3c-1a84a9900403)
     - bycle.ipynb: 네
-     ![image](https://github.com/user-attachments/assets/3c8457f5-ad4c-4646-98ca-3269412d2ada)
+
+![image](https://github.com/user-attachments/assets/3c8457f5-ad4c-4646-98ca-3269412d2ada)
 
 
     
@@ -16,7 +18,8 @@
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - diabetes.ipynb에서 각각의 함수를 정의하는 부분이 가장 핵심적임.
     - 해당 위치에 doc string으로 각각의 함수가 의미하는 것이 무엇인지 잘 설명함.
-     ![image](https://github.com/user-attachments/assets/31dd6b7f-cde2-4029-b7fe-c4cc056f5ed9)
+  
+![image](https://github.com/user-attachments/assets/31dd6b7f-cde2-4029-b7fe-c4cc056f5ed9)
 
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
@@ -29,7 +32,8 @@
 - [ ]  **5. 코드가 간결하고 효율적인가요?**
     - 네
     - 아래 캡처본에 각각의 함수가 잘 정리되어 있음
-     ![image](https://github.com/user-attachments/assets/31dd6b7f-cde2-4029-b7fe-c4cc056f5ed9)
+
+![image](https://github.com/user-attachments/assets/31dd6b7f-cde2-4029-b7fe-c4cc056f5ed9)
 
 
 # 회고(참고 링크 및 코드 개선)
