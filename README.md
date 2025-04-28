@@ -5,10 +5,7 @@
 
 ![](./image/AIFFEL_10.png)
 
-| <img src="./image/account_circle.png" width=80> | [**권재현**](https://www.notion.so/modulabs/1b95c8e5427d802987cac84efeaeb32e?pvs=4)
 | <img src="./image/account_circle.png" width=80> | [**김청해**](https://www.notion.so/modulabs/1b95c8e5427d80bbb2fbfdbc52422fcb?pvs=4)
-| <img src="./image/account_circle.png" width=80> | [**이주연**](https://www.notion.so/modulabs/1b95c8e5427d80d78429cb1deed0bfb1?pvs=4)
-| <img src="./image/account_circle.png" width=80> | [**임한결**](https://www.notion.so/modulabs/1b95c8e5427d80beaccdd4f229f412fd?pvs=4)
 
 ## 📂 저장소 구조
 ```
